@@ -1,0 +1,12 @@
+C:\Users\ivan_yuz\Documents\Visual Studio 2015\Projects\Patterns.Example\Patterns.Example.Singleton\bin\Debug\Patterns.Example.Singleton.exe.config
+C:\Users\ivan_yuz\Documents\Visual Studio 2015\Projects\Patterns.Example\Patterns.Example.Singleton\bin\Debug\Patterns.Example.Singleton.exe
+C:\Users\ivan_yuz\Documents\Visual Studio 2015\Projects\Patterns.Example\Patterns.Example.Singleton\bin\Debug\Patterns.Example.Singleton.pdb
+C:\Users\ivan_yuz\Documents\Visual Studio 2015\Projects\Patterns.Example\Patterns.Example.Singleton\obj\Debug\Patterns.Example.Singleton.csprojResolveAssemblyReference.cache
+C:\Users\ivan_yuz\Documents\Visual Studio 2015\Projects\Patterns.Example\Patterns.Example.Singleton\obj\Debug\Patterns.Example.Singleton.exe
+C:\Users\ivan_yuz\Documents\Visual Studio 2015\Projects\Patterns.Example\Patterns.Example.Singleton\obj\Debug\Patterns.Example.Singleton.pdb
+C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.Singleton\bin\Debug\Patterns.Example.Singleton.exe.config
+C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.Singleton\bin\Debug\Patterns.Example.Singleton.exe
+C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.Singleton\bin\Debug\Patterns.Example.Singleton.pdb
+C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.Singleton\obj\Debug\Patterns.Example.Singleton.csprojResolveAssemblyReference.cache
+C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.Singleton\obj\Debug\Patterns.Example.Singleton.exe
+C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.Singleton\obj\Debug\Patterns.Example.Singleton.pdb

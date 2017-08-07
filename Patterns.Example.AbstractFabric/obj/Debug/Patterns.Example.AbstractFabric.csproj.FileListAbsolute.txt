@@ -1,0 +1,12 @@
+c:\users\ivan_yuz\documents\visual studio 2015\Projects\Patterns.Example\Patterns.Example.AbstractFabric\bin\Debug\Patterns.Example.AbstractFabric.exe.config
+c:\users\ivan_yuz\documents\visual studio 2015\Projects\Patterns.Example\Patterns.Example.AbstractFabric\bin\Debug\Patterns.Example.AbstractFabric.exe
+c:\users\ivan_yuz\documents\visual studio 2015\Projects\Patterns.Example\Patterns.Example.AbstractFabric\bin\Debug\Patterns.Example.AbstractFabric.pdb
+c:\users\ivan_yuz\documents\visual studio 2015\Projects\Patterns.Example\Patterns.Example.AbstractFabric\obj\Debug\Patterns.Example.AbstractFabric.csprojResolveAssemblyReference.cache
+c:\users\ivan_yuz\documents\visual studio 2015\Projects\Patterns.Example\Patterns.Example.AbstractFabric\obj\Debug\Patterns.Example.AbstractFabric.exe
+c:\users\ivan_yuz\documents\visual studio 2015\Projects\Patterns.Example\Patterns.Example.AbstractFabric\obj\Debug\Patterns.Example.AbstractFabric.pdb
+C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.AbstractFabric\bin\Debug\Patterns.Example.AbstractFabric.exe.config
+C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.AbstractFabric\obj\Debug\Patterns.Example.AbstractFabric.exe
+C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.AbstractFabric\obj\Debug\Patterns.Example.AbstractFabric.pdb
+C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.AbstractFabric\bin\Debug\Patterns.Example.AbstractFabric.exe
+C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.AbstractFabric\bin\Debug\Patterns.Example.AbstractFabric.pdb
+C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.AbstractFabric\obj\Debug\Patterns.Example.AbstractFabric.csprojResolveAssemblyReference.cache

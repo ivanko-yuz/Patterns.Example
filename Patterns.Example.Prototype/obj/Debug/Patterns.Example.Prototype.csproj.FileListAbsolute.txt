@@ -1,0 +1,7 @@
+C:\Users\ivan_yuz\Documents\Visual Studio 2015\Projects\Patterns.Example\Patterns.Example.Prototype\bin\Debug\Patterns.Example.Prototype.exe.config
+C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.Prototype\bin\Debug\Patterns.Example.Prototype.exe.config
+C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.Prototype\bin\Debug\Patterns.Example.Prototype.exe
+C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.Prototype\bin\Debug\Patterns.Example.Prototype.pdb
+C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.Prototype\obj\Debug\Patterns.Example.Prototype.csprojResolveAssemblyReference.cache
+C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.Prototype\obj\Debug\Patterns.Example.Prototype.exe
+C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.Prototype\obj\Debug\Patterns.Example.Prototype.pdb
