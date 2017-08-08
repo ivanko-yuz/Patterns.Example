@@ -13,6 +13,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns.Example.Prototype"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns.Example.Singleton", "Patterns.Example.Singleton\Patterns.Example.Singleton.csproj", "{0EC24147-F468-4AE0-92C6-F76DE6DDC972}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Generating", "Generating", "{E6B2705E-C71F-4576-855C-5D405EE1F467}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", "{1B4A389B-DF0E-452B-96AA-F18DEF40FC95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns.Example.Adapter", "Patterns.Example.Adapter\Patterns.Example.Adapter.csproj", "{572F28D7-28A0-4F4A-B921-9D9823814443}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,8 +45,20 @@ Global
 		{0EC24147-F468-4AE0-92C6-F76DE6DDC972}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EC24147-F468-4AE0-92C6-F76DE6DDC972}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EC24147-F468-4AE0-92C6-F76DE6DDC972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{572F28D7-28A0-4F4A-B921-9D9823814443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{572F28D7-28A0-4F4A-B921-9D9823814443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{572F28D7-28A0-4F4A-B921-9D9823814443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{572F28D7-28A0-4F4A-B921-9D9823814443}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{88F82870-7A58-4E20-AC5E-985B3815D6A8} = {E6B2705E-C71F-4576-855C-5D405EE1F467}
+		{5C726887-6A67-4A6F-80DB-9BD98AD80132} = {E6B2705E-C71F-4576-855C-5D405EE1F467}
+		{E6832E2E-AC1C-44C5-802B-99F9BD89D2D5} = {E6B2705E-C71F-4576-855C-5D405EE1F467}
+		{90CD93EF-5699-47AC-BF9C-2942AF54ED81} = {E6B2705E-C71F-4576-855C-5D405EE1F467}
+		{0EC24147-F468-4AE0-92C6-F76DE6DDC972} = {E6B2705E-C71F-4576-855C-5D405EE1F467}
+		{572F28D7-28A0-4F4A-B921-9D9823814443} = {1B4A389B-DF0E-452B-96AA-F18DEF40FC95}
 	EndGlobalSection
 EndGlobal
