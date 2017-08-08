@@ -1,0 +1,6 @@
+C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.Adapter\bin\Debug\Patterns.Example.Adapter.exe.config
+C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.Adapter\bin\Debug\Patterns.Example.Adapter.exe
+C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.Adapter\bin\Debug\Patterns.Example.Adapter.pdb
+C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.Adapter\obj\Debug\Patterns.Example.Adapter.csprojResolveAssemblyReference.cache
+C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.Adapter\obj\Debug\Patterns.Example.Adapter.exe
+C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.Adapter\obj\Debug\Patterns.Example.Adapter.pdb
