@@ -1,0 +1,11 @@
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.ChainOfResponsibility\bin\Debug\netcoreapp2.1\Patterns.Example.ChainOfResponsibility.deps.json
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.ChainOfResponsibility\bin\Debug\netcoreapp2.1\Patterns.Example.ChainOfResponsibility.runtimeconfig.json
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.ChainOfResponsibility\bin\Debug\netcoreapp2.1\Patterns.Example.ChainOfResponsibility.runtimeconfig.dev.json
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.ChainOfResponsibility\bin\Debug\netcoreapp2.1\Patterns.Example.ChainOfResponsibility.dll
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.ChainOfResponsibility\bin\Debug\netcoreapp2.1\Patterns.Example.ChainOfResponsibility.pdb
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.ChainOfResponsibility\obj\Debug\netcoreapp2.1\Patterns.Example.ChainOfResponsibility.csprojAssemblyReference.cache
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.ChainOfResponsibility\obj\Debug\netcoreapp2.1\Patterns.Example.ChainOfResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.ChainOfResponsibility\obj\Debug\netcoreapp2.1\Patterns.Example.ChainOfResponsibility.AssemblyInfoInputs.cache
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.ChainOfResponsibility\obj\Debug\netcoreapp2.1\Patterns.Example.ChainOfResponsibility.AssemblyInfo.cs
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.ChainOfResponsibility\obj\Debug\netcoreapp2.1\Patterns.Example.ChainOfResponsibility.dll
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.ChainOfResponsibility\obj\Debug\netcoreapp2.1\Patterns.Example.ChainOfResponsibility.pdb
