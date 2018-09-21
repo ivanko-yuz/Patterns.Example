@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns.Example.AbstractFabric", "Patterns.Example.AbstractFabric\Patterns.Example.AbstractFabric.csproj", "{88F82870-7A58-4E20-AC5E-985B3815D6A8}"
 EndProject
@@ -18,6 +18,14 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Structural", "Structural", "{1B4A389B-DF0E-452B-96AA-F18DEF40FC95}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns.Example.Adapter", "Patterns.Example.Adapter\Patterns.Example.Adapter.csproj", "{572F28D7-28A0-4F4A-B921-9D9823814443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns.Example.Bridge", "Patterns.Example.Bridge\Patterns.Example.Bridge.csproj", "{C298F585-2067-4FBE-A288-A8356AD8A9A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns.Example.Composite", "Patterns.Example.Composite\Patterns.Example.Composite.csproj", "{FEC38E9A-17A0-4FDF-885E-E9886182BBF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns.Example.Decorator", "Patterns.Example.Decorator\Patterns.Example.Decorator.csproj", "{483090E9-D162-46A9-9FAF-648DD9A60D07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patterns.Example.Facade", "Patterns.Example.Facade\Patterns.Example.Facade.csproj", "{EF76D343-7DD5-4C3B-9D8C-186B8DC648E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -49,6 +57,22 @@ Global
 		{572F28D7-28A0-4F4A-B921-9D9823814443}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{572F28D7-28A0-4F4A-B921-9D9823814443}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{572F28D7-28A0-4F4A-B921-9D9823814443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C298F585-2067-4FBE-A288-A8356AD8A9A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C298F585-2067-4FBE-A288-A8356AD8A9A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C298F585-2067-4FBE-A288-A8356AD8A9A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C298F585-2067-4FBE-A288-A8356AD8A9A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEC38E9A-17A0-4FDF-885E-E9886182BBF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC38E9A-17A0-4FDF-885E-E9886182BBF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC38E9A-17A0-4FDF-885E-E9886182BBF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC38E9A-17A0-4FDF-885E-E9886182BBF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{483090E9-D162-46A9-9FAF-648DD9A60D07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{483090E9-D162-46A9-9FAF-648DD9A60D07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{483090E9-D162-46A9-9FAF-648DD9A60D07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{483090E9-D162-46A9-9FAF-648DD9A60D07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF76D343-7DD5-4C3B-9D8C-186B8DC648E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF76D343-7DD5-4C3B-9D8C-186B8DC648E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF76D343-7DD5-4C3B-9D8C-186B8DC648E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF76D343-7DD5-4C3B-9D8C-186B8DC648E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -60,5 +84,12 @@ Global
 		{90CD93EF-5699-47AC-BF9C-2942AF54ED81} = {E6B2705E-C71F-4576-855C-5D405EE1F467}
 		{0EC24147-F468-4AE0-92C6-F76DE6DDC972} = {E6B2705E-C71F-4576-855C-5D405EE1F467}
 		{572F28D7-28A0-4F4A-B921-9D9823814443} = {1B4A389B-DF0E-452B-96AA-F18DEF40FC95}
+		{C298F585-2067-4FBE-A288-A8356AD8A9A5} = {1B4A389B-DF0E-452B-96AA-F18DEF40FC95}
+		{FEC38E9A-17A0-4FDF-885E-E9886182BBF5} = {1B4A389B-DF0E-452B-96AA-F18DEF40FC95}
+		{483090E9-D162-46A9-9FAF-648DD9A60D07} = {1B4A389B-DF0E-452B-96AA-F18DEF40FC95}
+		{EF76D343-7DD5-4C3B-9D8C-186B8DC648E0} = {1B4A389B-DF0E-452B-96AA-F18DEF40FC95}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD1BFF16-4BB0-4224-836D-C2F81260A662}
 	EndGlobalSection
 EndGlobal

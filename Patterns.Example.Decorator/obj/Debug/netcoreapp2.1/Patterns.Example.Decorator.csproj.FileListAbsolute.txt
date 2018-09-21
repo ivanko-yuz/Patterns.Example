@@ -1,0 +1,11 @@
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Decorator\bin\Debug\netcoreapp2.1\Patterns.Example.Decorator.deps.json
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Decorator\bin\Debug\netcoreapp2.1\Patterns.Example.Decorator.runtimeconfig.json
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Decorator\bin\Debug\netcoreapp2.1\Patterns.Example.Decorator.runtimeconfig.dev.json
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Decorator\bin\Debug\netcoreapp2.1\Patterns.Example.Decorator.dll
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Decorator\bin\Debug\netcoreapp2.1\Patterns.Example.Decorator.pdb
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Decorator\obj\Debug\netcoreapp2.1\Patterns.Example.Decorator.csprojAssemblyReference.cache
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Decorator\obj\Debug\netcoreapp2.1\Patterns.Example.Decorator.csproj.CoreCompileInputs.cache
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Decorator\obj\Debug\netcoreapp2.1\Patterns.Example.Decorator.AssemblyInfoInputs.cache
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Decorator\obj\Debug\netcoreapp2.1\Patterns.Example.Decorator.AssemblyInfo.cs
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Decorator\obj\Debug\netcoreapp2.1\Patterns.Example.Decorator.dll
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Decorator\obj\Debug\netcoreapp2.1\Patterns.Example.Decorator.pdb

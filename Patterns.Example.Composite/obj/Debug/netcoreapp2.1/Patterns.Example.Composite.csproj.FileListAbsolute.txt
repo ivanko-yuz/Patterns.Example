@@ -1,0 +1,11 @@
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Composite\bin\Debug\netcoreapp2.1\Patterns.Example.Composite.deps.json
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Composite\bin\Debug\netcoreapp2.1\Patterns.Example.Composite.runtimeconfig.json
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Composite\bin\Debug\netcoreapp2.1\Patterns.Example.Composite.runtimeconfig.dev.json
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Composite\bin\Debug\netcoreapp2.1\Patterns.Example.Composite.dll
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Composite\bin\Debug\netcoreapp2.1\Patterns.Example.Composite.pdb
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Composite\obj\Debug\netcoreapp2.1\Patterns.Example.Composite.csprojAssemblyReference.cache
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Composite\obj\Debug\netcoreapp2.1\Patterns.Example.Composite.csproj.CoreCompileInputs.cache
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Composite\obj\Debug\netcoreapp2.1\Patterns.Example.Composite.AssemblyInfoInputs.cache
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Composite\obj\Debug\netcoreapp2.1\Patterns.Example.Composite.AssemblyInfo.cs
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Composite\obj\Debug\netcoreapp2.1\Patterns.Example.Composite.dll
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Composite\obj\Debug\netcoreapp2.1\Patterns.Example.Composite.pdb

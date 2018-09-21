@@ -46,7 +46,7 @@
     <Compile Include="Builders\CustomPizzaBuilder.cs" />
     <Compile Include="Builders\MargaritaPizzaBuilder.cs" />
     <Compile Include="Builders\PizzaBuiler.cs" />
-    <Compile Include="BuyPizza.cs" />
+    <Compile Include="Shop.cs" />
     <Compile Include="Model\Pizza.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
