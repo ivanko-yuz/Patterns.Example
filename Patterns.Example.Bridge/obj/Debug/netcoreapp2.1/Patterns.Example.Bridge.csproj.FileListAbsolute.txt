@@ -1,0 +1,11 @@
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Bridge\bin\Debug\netcoreapp2.1\Patterns.Example.Bridge.deps.json
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Bridge\bin\Debug\netcoreapp2.1\Patterns.Example.Bridge.runtimeconfig.json
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Bridge\bin\Debug\netcoreapp2.1\Patterns.Example.Bridge.runtimeconfig.dev.json
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Bridge\bin\Debug\netcoreapp2.1\Patterns.Example.Bridge.dll
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Bridge\bin\Debug\netcoreapp2.1\Patterns.Example.Bridge.pdb
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Bridge\obj\Debug\netcoreapp2.1\Patterns.Example.Bridge.csprojAssemblyReference.cache
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Bridge\obj\Debug\netcoreapp2.1\Patterns.Example.Bridge.csproj.CoreCompileInputs.cache
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Bridge\obj\Debug\netcoreapp2.1\Patterns.Example.Bridge.AssemblyInfoInputs.cache
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Bridge\obj\Debug\netcoreapp2.1\Patterns.Example.Bridge.AssemblyInfo.cs
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Bridge\obj\Debug\netcoreapp2.1\Patterns.Example.Bridge.dll
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Bridge\obj\Debug\netcoreapp2.1\Patterns.Example.Bridge.pdb

@@ -14,17 +14,17 @@ namespace Patterns.Example.Builder
             var firstBuilder = new MargaritaPizzaBuilder();
             var secondBuilder = new CustomPizzaBuilder();
 
-            var shop = new BuyPizza();
+            var shop = new Shop();
 
             shop.SetPizzaBuilder(firstBuilder);
             shop.ConstructNewPizza();
 
-            var pizza1 = shop.GetPizza();
+            var pizza1 = shop.Construct();
 
             shop.SetPizzaBuilder(secondBuilder);
             shop.ConstructNewPizza();
 
-            var pizza2 = shop.GetPizza();
+            var pizza2 = shop.Construct();
 
 
             Console.WriteLine(pizza1.ToString());

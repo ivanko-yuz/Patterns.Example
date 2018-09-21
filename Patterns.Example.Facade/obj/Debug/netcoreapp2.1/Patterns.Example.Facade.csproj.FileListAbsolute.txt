@@ -1,0 +1,11 @@
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Facade\bin\Debug\netcoreapp2.1\Patterns.Example.Facade.deps.json
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Facade\bin\Debug\netcoreapp2.1\Patterns.Example.Facade.runtimeconfig.json
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Facade\bin\Debug\netcoreapp2.1\Patterns.Example.Facade.runtimeconfig.dev.json
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Facade\bin\Debug\netcoreapp2.1\Patterns.Example.Facade.dll
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Facade\bin\Debug\netcoreapp2.1\Patterns.Example.Facade.pdb
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Facade\obj\Debug\netcoreapp2.1\Patterns.Example.Facade.csprojAssemblyReference.cache
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Facade\obj\Debug\netcoreapp2.1\Patterns.Example.Facade.csproj.CoreCompileInputs.cache
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Facade\obj\Debug\netcoreapp2.1\Patterns.Example.Facade.AssemblyInfoInputs.cache
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Facade\obj\Debug\netcoreapp2.1\Patterns.Example.Facade.AssemblyInfo.cs
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Facade\obj\Debug\netcoreapp2.1\Patterns.Example.Facade.dll
+C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.Facade\obj\Debug\netcoreapp2.1\Patterns.Example.Facade.pdb

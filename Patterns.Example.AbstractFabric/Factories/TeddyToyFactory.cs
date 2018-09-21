@@ -4,12 +4,12 @@ namespace Patterns.Example.AbstractFabric.Factories
 {
     public class TeddyToyFactory: IToyFactory 
     {
-        public Bear GetBear()
+        public override Bear GetBear()
         {
             return new TeddyBear("Teddy Bear");
         }
 
-        public Cat GetCat()
+        public override Cat GetCat()
         {
             return new TeddyCat("Teddy Cat");
         }

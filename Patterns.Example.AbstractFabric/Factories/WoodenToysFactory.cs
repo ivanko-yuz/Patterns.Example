@@ -7,12 +7,12 @@ namespace Patterns.Example.AbstractFabric.Factories
 {
     public class WoodenToysFactory : IToyFactory
     {
-        public Bear GetBear()
+        public override Bear GetBear()
         {
             return new WoodenBear("Wooden Bear");
         }
 
-        public Cat GetCat()
+        public override Cat GetCat()
         {
             throw new NotImplementedException();
         }
