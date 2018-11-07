@@ -3,9 +3,9 @@ using Patterns.Example.AbstractFabric.Models;
 
 namespace Patterns.Example.AbstractFabric
 {
-    public interface IToyFactory
+    public abstract class IToyFactory
     {
-        Bear GetBear();
-        Cat GetCat();
+        public abstract Bear GetBear();
+        public abstract Cat GetCat();
     }
 }

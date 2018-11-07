@@ -3,7 +3,7 @@ using Patterns.Example.Builder.Model;
 
 namespace Patterns.Example.Builder
 {
-    public class BuyPizza
+    public class Shop
     {
         private PizzaBuiler _pizzaBuiler;
 
@@ -12,7 +12,7 @@ namespace Patterns.Example.Builder
             _pizzaBuiler = builder;
         }
 
-        public Pizza GetPizza()
+        public Pizza Construct()
         {
             return _pizzaBuiler.GetMyPizza();
         }
