@@ -1,12 +1,18 @@
-C:\Users\ivan_yuz\Documents\Visual Studio 2015\Projects\Patterns.Example\Patterns.Example.FactoryMethod\bin\Debug\Patterns.Example.FactoryMethod.exe.config
-C:\Users\ivan_yuz\Documents\Visual Studio 2015\Projects\Patterns.Example\Patterns.Example.FactoryMethod\bin\Debug\Patterns.Example.FactoryMethod.exe
-C:\Users\ivan_yuz\Documents\Visual Studio 2015\Projects\Patterns.Example\Patterns.Example.FactoryMethod\bin\Debug\Patterns.Example.FactoryMethod.pdb
-C:\Users\ivan_yuz\Documents\Visual Studio 2015\Projects\Patterns.Example\Patterns.Example.FactoryMethod\obj\Debug\Patterns.Example.FactoryMethod.csprojResolveAssemblyReference.cache
-C:\Users\ivan_yuz\Documents\Visual Studio 2015\Projects\Patterns.Example\Patterns.Example.FactoryMethod\obj\Debug\Patterns.Example.FactoryMethod.exe
-C:\Users\ivan_yuz\Documents\Visual Studio 2015\Projects\Patterns.Example\Patterns.Example.FactoryMethod\obj\Debug\Patterns.Example.FactoryMethod.pdb
-C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.FactoryMethod\bin\Debug\Patterns.Example.FactoryMethod.exe.config
-C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.FactoryMethod\bin\Debug\Patterns.Example.FactoryMethod.exe
-C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.FactoryMethod\bin\Debug\Patterns.Example.FactoryMethod.pdb
-C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.FactoryMethod\obj\Debug\Patterns.Example.FactoryMethod.csprojResolveAssemblyReference.cache
-C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.FactoryMethod\obj\Debug\Patterns.Example.FactoryMethod.exe
-C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.FactoryMethod\obj\Debug\Patterns.Example.FactoryMethod.pdb
+C:/Users/ivan_yuz/Documents/Visual Studio 2015/Projects/Patterns.Example/Patterns.Example.FactoryMethod/bin/Debug/Patterns.Example.FactoryMethod.exe.config
+C:/Users/ivan_yuz/Documents/Visual Studio 2015/Projects/Patterns.Example/Patterns.Example.FactoryMethod/bin/Debug/Patterns.Example.FactoryMethod.exe
+C:/Users/ivan_yuz/Documents/Visual Studio 2015/Projects/Patterns.Example/Patterns.Example.FactoryMethod/bin/Debug/Patterns.Example.FactoryMethod.pdb
+C:/Users/ivan_yuz/Documents/Visual Studio 2015/Projects/Patterns.Example/Patterns.Example.FactoryMethod/obj/Debug/Patterns.Example.FactoryMethod.csprojResolveAssemblyReference.cache
+C:/Users/ivan_yuz/Documents/Visual Studio 2015/Projects/Patterns.Example/Patterns.Example.FactoryMethod/obj/Debug/Patterns.Example.FactoryMethod.exe
+C:/Users/ivan_yuz/Documents/Visual Studio 2015/Projects/Patterns.Example/Patterns.Example.FactoryMethod/obj/Debug/Patterns.Example.FactoryMethod.pdb
+C:/Users/ivan_yuz/Documents/Repos/Patterns.Example/Patterns.Example.FactoryMethod/bin/Debug/Patterns.Example.FactoryMethod.exe.config
+C:/Users/ivan_yuz/Documents/Repos/Patterns.Example/Patterns.Example.FactoryMethod/bin/Debug/Patterns.Example.FactoryMethod.exe
+C:/Users/ivan_yuz/Documents/Repos/Patterns.Example/Patterns.Example.FactoryMethod/bin/Debug/Patterns.Example.FactoryMethod.pdb
+C:/Users/ivan_yuz/Documents/Repos/Patterns.Example/Patterns.Example.FactoryMethod/obj/Debug/Patterns.Example.FactoryMethod.csprojResolveAssemblyReference.cache
+C:/Users/ivan_yuz/Documents/Repos/Patterns.Example/Patterns.Example.FactoryMethod/obj/Debug/Patterns.Example.FactoryMethod.exe
+C:/Users/ivan_yuz/Documents/Repos/Patterns.Example/Patterns.Example.FactoryMethod/obj/Debug/Patterns.Example.FactoryMethod.pdb
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.FactoryMethod/bin/Debug/Patterns.Example.FactoryMethod.exe.config
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.FactoryMethod/bin/Debug/Patterns.Example.FactoryMethod.exe
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.FactoryMethod/bin/Debug/Patterns.Example.FactoryMethod.pdb
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.FactoryMethod/obj/Debug/Patterns.Example.FactoryMethod.csproj.CoreCompileInputs.cache
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.FactoryMethod/obj/Debug/Patterns.Example.FactoryMethod.exe
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.FactoryMethod/obj/Debug/Patterns.Example.FactoryMethod.pdb

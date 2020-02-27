@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d4622bf2-1ed0-4be9-b3a3-13103fdc45ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.Singleton/LoggerSingleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.Adapter/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.Singleton/ThreadSafeLoggerSingleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.Facade/SubSystem/SubSystemD.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.AbstractFabric/App.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.Composite/Leaf.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.AbstractFabric/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.Composite/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.Facade/SubSystem/SubSystemC.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.Composite/Composite .cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.Facade/SubSystem/SubSystemA.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.FactoryMethod/Models/Trousers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.FactoryMethod/Models/TShirt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.FactoryMethod/Models/IClothes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.Facade/Facade.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.Facade/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.FactoryMethod/ClothProviderFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.FactoryMethod/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.Builder/Shop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.FactoryMethod/ClotheProviders.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.AbstractFabric/Factories/IToyFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.AbstractFabric/Factories/TeddyToyFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.AbstractFabric/Factories/WoodenToysFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.Bridge/obj/Debug/netcoreapp2.1/Patterns.Example.Bridge.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.AbstractFabric/Models/ConcreteImplementatin/TeddyToy/TeddyBear.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.AbstractFabric/Models/ConcreteImplementatin/WodenToy/WoodenBear.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.AbstractFabric/Models/ConcreteImplementatin/TeddyToy/TeddyCat.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.AbstractFabric/Models/AnimalToy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.AbstractFabric/Models/Bear.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Patterns.Example.AbstractFabric/Models/Cat.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Patterns.Example.AbstractFabric" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Patterns.Example.AbstractFabric/Patterns.Example.AbstractFabric.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state width="1398" height="351" key="GridCell.Tab.0.bottom" timestamp="1582805900351">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="351" key="GridCell.Tab.0.bottom/697.-1080.1920.1080/0.0.1440.900/-1223.-1080.1920.1080@0.0.1440.900" timestamp="1582805900351" />
+    <state width="1398" height="351" key="GridCell.Tab.0.center" timestamp="1582805900349">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="351" key="GridCell.Tab.0.center/697.-1080.1920.1080/0.0.1440.900/-1223.-1080.1920.1080@0.0.1440.900" timestamp="1582805900349" />
+    <state width="1398" height="351" key="GridCell.Tab.0.left" timestamp="1582805900346">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="351" key="GridCell.Tab.0.left/697.-1080.1920.1080/0.0.1440.900/-1223.-1080.1920.1080@0.0.1440.900" timestamp="1582805900346" />
+    <state width="1398" height="351" key="GridCell.Tab.0.right" timestamp="1582805900350">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="351" key="GridCell.Tab.0.right/697.-1080.1920.1080/0.0.1440.900/-1223.-1080.1920.1080@0.0.1440.900" timestamp="1582805900350" />
+  </component>
+</project>

@@ -1,12 +1,18 @@
-c:\users\ivan_yuz\documents\visual studio 2015\Projects\Patterns.Example\Patterns.Example.Builder\bin\Debug\Patterns.Example.Builder.exe.config
-c:\users\ivan_yuz\documents\visual studio 2015\Projects\Patterns.Example\Patterns.Example.Builder\bin\Debug\Patterns.Example.Builder.exe
-c:\users\ivan_yuz\documents\visual studio 2015\Projects\Patterns.Example\Patterns.Example.Builder\bin\Debug\Patterns.Example.Builder.pdb
-c:\users\ivan_yuz\documents\visual studio 2015\Projects\Patterns.Example\Patterns.Example.Builder\obj\Debug\Patterns.Example.Builder.csprojResolveAssemblyReference.cache
-c:\users\ivan_yuz\documents\visual studio 2015\Projects\Patterns.Example\Patterns.Example.Builder\obj\Debug\Patterns.Example.Builder.exe
-c:\users\ivan_yuz\documents\visual studio 2015\Projects\Patterns.Example\Patterns.Example.Builder\obj\Debug\Patterns.Example.Builder.pdb
-C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.Builder\bin\Debug\Patterns.Example.Builder.exe.config
-C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.Builder\bin\Debug\Patterns.Example.Builder.exe
-C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.Builder\bin\Debug\Patterns.Example.Builder.pdb
-C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.Builder\obj\Debug\Patterns.Example.Builder.csprojResolveAssemblyReference.cache
-C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.Builder\obj\Debug\Patterns.Example.Builder.exe
-C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.Builder\obj\Debug\Patterns.Example.Builder.pdb
+c:/users/ivan_yuz/documents/visual studio 2015/Projects/Patterns.Example/Patterns.Example.Builder/bin/Debug/Patterns.Example.Builder.exe.config
+c:/users/ivan_yuz/documents/visual studio 2015/Projects/Patterns.Example/Patterns.Example.Builder/bin/Debug/Patterns.Example.Builder.exe
+c:/users/ivan_yuz/documents/visual studio 2015/Projects/Patterns.Example/Patterns.Example.Builder/bin/Debug/Patterns.Example.Builder.pdb
+c:/users/ivan_yuz/documents/visual studio 2015/Projects/Patterns.Example/Patterns.Example.Builder/obj/Debug/Patterns.Example.Builder.csprojResolveAssemblyReference.cache
+c:/users/ivan_yuz/documents/visual studio 2015/Projects/Patterns.Example/Patterns.Example.Builder/obj/Debug/Patterns.Example.Builder.exe
+c:/users/ivan_yuz/documents/visual studio 2015/Projects/Patterns.Example/Patterns.Example.Builder/obj/Debug/Patterns.Example.Builder.pdb
+C:/Users/ivan_yuz/Documents/Repos/Patterns.Example/Patterns.Example.Builder/bin/Debug/Patterns.Example.Builder.exe.config
+C:/Users/ivan_yuz/Documents/Repos/Patterns.Example/Patterns.Example.Builder/bin/Debug/Patterns.Example.Builder.exe
+C:/Users/ivan_yuz/Documents/Repos/Patterns.Example/Patterns.Example.Builder/bin/Debug/Patterns.Example.Builder.pdb
+C:/Users/ivan_yuz/Documents/Repos/Patterns.Example/Patterns.Example.Builder/obj/Debug/Patterns.Example.Builder.csprojResolveAssemblyReference.cache
+C:/Users/ivan_yuz/Documents/Repos/Patterns.Example/Patterns.Example.Builder/obj/Debug/Patterns.Example.Builder.exe
+C:/Users/ivan_yuz/Documents/Repos/Patterns.Example/Patterns.Example.Builder/obj/Debug/Patterns.Example.Builder.pdb
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.Builder/bin/Debug/Patterns.Example.Builder.exe.config
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.Builder/bin/Debug/Patterns.Example.Builder.exe
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.Builder/bin/Debug/Patterns.Example.Builder.pdb
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.Builder/obj/Debug/Patterns.Example.Builder.csproj.CoreCompileInputs.cache
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.Builder/obj/Debug/Patterns.Example.Builder.exe
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.Builder/obj/Debug/Patterns.Example.Builder.pdb

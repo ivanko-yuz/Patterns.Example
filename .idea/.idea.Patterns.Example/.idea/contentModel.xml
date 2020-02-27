@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="1.Generating" t="Include" />
+      <e p="2.Structural" t="Include" />
+      <e p="3.Behavioral" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Patterns.Example.AbstractFabric" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Factories" t="Include">
+          <e p="IToyFactory.cs" t="Include" />
+          <e p="TeddyToyFactory.cs" t="Include" />
+          <e p="WoodenToysFactory.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="AnimalToy.cs" t="Include" />
+          <e p="Bear.cs" t="Include" />
+          <e p="Cat.cs" t="Include" />
+          <e p="ConcreteImplementatin" t="Include">
+            <e p="TeddyToy" t="Include">
+              <e p="TeddyBear.cs" t="Include" />
+              <e p="TeddyCat.cs" t="Include" />
+            </e>
+            <e p="WodenToy" t="Include">
+              <e p="WoodenBear.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Patterns.Example.AbstractFabric.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Patterns.Example.Adapter" t="IncludeRecursive">
+        <e p="Adapter.cs" t="Include" />
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ElectricityConsumer.cs" t="Include" />
+        <e p="Models" t="Include">
+          <e p="INewElectricitySystem.cs" t="Include" />
+          <e p="NewElectricitySystem.cs" t="Include" />
+          <e p="OldElectricitySystem.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Patterns.Example.Adapter.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Patterns.Example.Bridge" t="IncludeRecursive">
+        <e p="Abstraction" t="Include">
+          <e p="Customers.cs" t="Include" />
+          <e p="CustomersBase.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Implementation" t="Include">
+          <e p="CustomersData.cs" t="Include" />
+          <e p="CustomersData2.cs" t="Include" />
+          <e p="DataObject.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Patterns.Example.Bridge.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Patterns.Example.Bridge.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Patterns.Example.Builder" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Builders" t="Include">
+          <e p="CustomPizzaBuilder.cs" t="Include" />
+          <e p="MargaritaPizzaBuilder.cs" t="Include" />
+          <e p="PizzaBuiler.cs" t="Include" />
+        </e>
+        <e p="Model" t="Include">
+          <e p="Pizza.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Patterns.Example.Builder.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Shop.cs" t="Include" />
+      </e>
+      <e p="Patterns.Example.ChainOfResponsibility" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Client.cs" t="Include" />
+        <e p="Handlers" t="Include">
+          <e p="FirstHandler.cs" t="Include" />
+          <e p="FourthHandler.cs" t="Include" />
+          <e p="Implementation" t="Include">
+            <e p="BaseHandler.cs" t="Include" />
+          </e>
+          <e p="SecondHandler.cs" t="Include" />
+          <e p="ThirdHandler.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Patterns.Example.ChainOfResponsibility.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Patterns.Example.ChainOfResponsibility.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Patterns.Example.Composite" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Component.cs" t="Include" />
+        <e p="Composite .cs" t="Include" />
+        <e p="Leaf.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Patterns.Example.Composite.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Patterns.Example.Composite.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Patterns.Example.Decorator" t="IncludeRecursive">
+        <e p="Abstraction" t="Include">
+          <e p="Component.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Decorator" t="Include">
+          <e p="Abstraction" t="Include">
+            <e p="Decorator.cs" t="Include" />
+          </e>
+          <e p="ConcreteDecoratedComponentA.cs" t="Include" />
+          <e p="ConcreteDecoratedComponentB.cs" t="Include" />
+        </e>
+        <e p="Implementation" t="Include">
+          <e p="ConcreteComponent.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Patterns.Example.Decorator.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Patterns.Example.Decorator.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Patterns.Example.Facade" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Facade.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Patterns.Example.Facade.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Patterns.Example.Facade.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="SubSystem" t="Include">
+          <e p="SubSystemA.cs" t="Include" />
+          <e p="SubSystemB.cs" t="Include" />
+          <e p="SubSystemC.cs" t="Include" />
+          <e p="SubSystemD.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Patterns.Example.FactoryMethod" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ClotheProviders.cs" t="Include" />
+        <e p="ClothProviderFactory.cs" t="Include" />
+        <e p="Models" t="Include">
+          <e p="IClothes.cs" t="Include" />
+          <e p="Trousers.cs" t="Include" />
+          <e p="TShirt.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Patterns.Example.FactoryMethod.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Patterns.Example.Prototype" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CalendarEvent.cs" t="Include" />
+        <e p="CalendarPrototype.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Patterns.Example.Prototype.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Patterns.Example.Proxy" t="IncludeRecursive">
+        <e p="Abstraction" t="Include">
+          <e p="Abstraction.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Client.cs" t="Include" />
+        <e p="Implementation" t="Include">
+          <e p="Implementation.cs" t="Include" />
+          <e p="Proxy.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Patterns.Example.Proxy.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Patterns.Example.Proxy.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="Patterns.Example.Singleton" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="HardProcessor.cs" t="Include" />
+        <e p="LoggerSingleton.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Patterns.Example.Singleton.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="ThreadSafeLoggerSingleton.cs" t="Include" />
+      </e>
+      <e p="Patterns.Example.sln" t="IncludeFlat" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.3/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_Patterns.Example.1580550880.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+  </component>
+</project>

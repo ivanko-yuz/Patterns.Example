@@ -1,0 +1,10 @@
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.Proxy/bin/Debug/netcoreapp2.1/Patterns.Example.Proxy.deps.json
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.Proxy/bin/Debug/netcoreapp2.1/Patterns.Example.Proxy.runtimeconfig.json
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.Proxy/bin/Debug/netcoreapp2.1/Patterns.Example.Proxy.runtimeconfig.dev.json
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.Proxy/bin/Debug/netcoreapp2.1/Patterns.Example.Proxy.dll
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.Proxy/bin/Debug/netcoreapp2.1/Patterns.Example.Proxy.pdb
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.Proxy/obj/Debug/netcoreapp2.1/Patterns.Example.Proxy.csproj.CoreCompileInputs.cache
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.Proxy/obj/Debug/netcoreapp2.1/Patterns.Example.Proxy.AssemblyInfoInputs.cache
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.Proxy/obj/Debug/netcoreapp2.1/Patterns.Example.Proxy.AssemblyInfo.cs
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.Proxy/obj/Debug/netcoreapp2.1/Patterns.Example.Proxy.dll
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.Proxy/obj/Debug/netcoreapp2.1/Patterns.Example.Proxy.pdb

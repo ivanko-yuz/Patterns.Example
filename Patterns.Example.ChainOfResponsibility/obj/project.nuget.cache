@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "tYer7imlbUMevYqYqe6XoT/4r3jGgIhD/icSpMn9yh3G8mf75TxiP51Gc04QIQEFKzgKeWf4bIFPB7MYqQ2paA==",
+  "success": true,
+  "projectFilePath": "/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.ChainOfResponsibility/Patterns.Example.ChainOfResponsibility.csproj",
+  "expectedPackageFiles": [
+    "/Users/iyuzv/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "/Users/iyuzv/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "/Users/iyuzv/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.1.0/microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "/Users/iyuzv/.nuget/packages/microsoft.netcore.dotnethostresolver/2.1.0/microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "/Users/iyuzv/.nuget/packages/microsoft.netcore.platforms/2.1.0/microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "/Users/iyuzv/.nuget/packages/microsoft.netcore.targets/2.1.0/microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "/Users/iyuzv/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

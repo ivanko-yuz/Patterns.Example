@@ -1,19 +1,26 @@
-c:\users\ivan_yuz\documents\visual studio 2015\Projects\Patterns.Example\Patterns.Example.AbstractFabric\bin\Debug\Patterns.Example.AbstractFabric.exe.config
-c:\users\ivan_yuz\documents\visual studio 2015\Projects\Patterns.Example\Patterns.Example.AbstractFabric\bin\Debug\Patterns.Example.AbstractFabric.exe
-c:\users\ivan_yuz\documents\visual studio 2015\Projects\Patterns.Example\Patterns.Example.AbstractFabric\bin\Debug\Patterns.Example.AbstractFabric.pdb
-c:\users\ivan_yuz\documents\visual studio 2015\Projects\Patterns.Example\Patterns.Example.AbstractFabric\obj\Debug\Patterns.Example.AbstractFabric.csprojResolveAssemblyReference.cache
-c:\users\ivan_yuz\documents\visual studio 2015\Projects\Patterns.Example\Patterns.Example.AbstractFabric\obj\Debug\Patterns.Example.AbstractFabric.exe
-c:\users\ivan_yuz\documents\visual studio 2015\Projects\Patterns.Example\Patterns.Example.AbstractFabric\obj\Debug\Patterns.Example.AbstractFabric.pdb
-C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.AbstractFabric\bin\Debug\Patterns.Example.AbstractFabric.exe.config
-C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.AbstractFabric\obj\Debug\Patterns.Example.AbstractFabric.exe
-C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.AbstractFabric\obj\Debug\Patterns.Example.AbstractFabric.pdb
-C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.AbstractFabric\bin\Debug\Patterns.Example.AbstractFabric.exe
-C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.AbstractFabric\bin\Debug\Patterns.Example.AbstractFabric.pdb
-C:\Users\ivan_yuz\Documents\Repos\Patterns.Example\Patterns.Example.AbstractFabric\obj\Debug\Patterns.Example.AbstractFabric.csprojResolveAssemblyReference.cache
-C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.AbstractFabric\bin\Debug\Patterns.Example.AbstractFabric.exe.config
-C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.AbstractFabric\bin\Debug\Patterns.Example.AbstractFabric.exe
-C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.AbstractFabric\bin\Debug\Patterns.Example.AbstractFabric.pdb
-C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.AbstractFabric\obj\Debug\Patterns.Example.AbstractFabric.csprojAssemblyReference.cache
-C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.AbstractFabric\obj\Debug\Patterns.Example.AbstractFabric.csproj.CoreCompileInputs.cache
-C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.AbstractFabric\obj\Debug\Patterns.Example.AbstractFabric.exe
-C:\Users\iyuzv\source\repos\Patterns.Example\Patterns.Example.AbstractFabric\obj\Debug\Patterns.Example.AbstractFabric.pdb
+c:/users/ivan_yuz/documents/visual studio 2015/Projects/Patterns.Example/Patterns.Example.AbstractFabric/bin/Debug/Patterns.Example.AbstractFabric.exe.config
+c:/users/ivan_yuz/documents/visual studio 2015/Projects/Patterns.Example/Patterns.Example.AbstractFabric/bin/Debug/Patterns.Example.AbstractFabric.exe
+c:/users/ivan_yuz/documents/visual studio 2015/Projects/Patterns.Example/Patterns.Example.AbstractFabric/bin/Debug/Patterns.Example.AbstractFabric.pdb
+c:/users/ivan_yuz/documents/visual studio 2015/Projects/Patterns.Example/Patterns.Example.AbstractFabric/obj/Debug/Patterns.Example.AbstractFabric.csprojResolveAssemblyReference.cache
+c:/users/ivan_yuz/documents/visual studio 2015/Projects/Patterns.Example/Patterns.Example.AbstractFabric/obj/Debug/Patterns.Example.AbstractFabric.exe
+c:/users/ivan_yuz/documents/visual studio 2015/Projects/Patterns.Example/Patterns.Example.AbstractFabric/obj/Debug/Patterns.Example.AbstractFabric.pdb
+C:/Users/ivan_yuz/Documents/Repos/Patterns.Example/Patterns.Example.AbstractFabric/bin/Debug/Patterns.Example.AbstractFabric.exe.config
+C:/Users/ivan_yuz/Documents/Repos/Patterns.Example/Patterns.Example.AbstractFabric/obj/Debug/Patterns.Example.AbstractFabric.exe
+C:/Users/ivan_yuz/Documents/Repos/Patterns.Example/Patterns.Example.AbstractFabric/obj/Debug/Patterns.Example.AbstractFabric.pdb
+C:/Users/ivan_yuz/Documents/Repos/Patterns.Example/Patterns.Example.AbstractFabric/bin/Debug/Patterns.Example.AbstractFabric.exe
+C:/Users/ivan_yuz/Documents/Repos/Patterns.Example/Patterns.Example.AbstractFabric/bin/Debug/Patterns.Example.AbstractFabric.pdb
+C:/Users/ivan_yuz/Documents/Repos/Patterns.Example/Patterns.Example.AbstractFabric/obj/Debug/Patterns.Example.AbstractFabric.csprojResolveAssemblyReference.cache
+C:/Users/iyuzv/source/repos/Patterns.Example/Patterns.Example.AbstractFabric/bin/Debug/Patterns.Example.AbstractFabric.exe.config
+C:/Users/iyuzv/source/repos/Patterns.Example/Patterns.Example.AbstractFabric/bin/Debug/Patterns.Example.AbstractFabric.exe
+C:/Users/iyuzv/source/repos/Patterns.Example/Patterns.Example.AbstractFabric/bin/Debug/Patterns.Example.AbstractFabric.pdb
+C:/Users/iyuzv/source/repos/Patterns.Example/Patterns.Example.AbstractFabric/obj/Debug/Patterns.Example.AbstractFabric.csprojAssemblyReference.cache
+C:/Users/iyuzv/source/repos/Patterns.Example/Patterns.Example.AbstractFabric/obj/Debug/Patterns.Example.AbstractFabric.csproj.CoreCompileInputs.cache
+C:/Users/iyuzv/source/repos/Patterns.Example/Patterns.Example.AbstractFabric/obj/Debug/Patterns.Example.AbstractFabric.exe
+C:/Users/iyuzv/source/repos/Patterns.Example/Patterns.Example.AbstractFabric/obj/Debug/Patterns.Example.AbstractFabric.pdb
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.AbstractFabric/bin/Debug/Patterns.Example.AbstractFabric.exe.config
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.AbstractFabric/bin/Debug/Patterns.Example.AbstractFabric.exe
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.AbstractFabric/bin/Debug/Patterns.Example.AbstractFabric.pdb
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.AbstractFabric/obj/Debug/Patterns.Example.AbstractFabric.csprojAssemblyReference.cache
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.AbstractFabric/obj/Debug/Patterns.Example.AbstractFabric.csproj.CoreCompileInputs.cache
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.AbstractFabric/obj/Debug/Patterns.Example.AbstractFabric.exe
+/Users/iyuzv/Documents/repos/Patterns.Example/Patterns.Example.AbstractFabric/obj/Debug/Patterns.Example.AbstractFabric.pdb
